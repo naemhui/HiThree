@@ -10,4 +10,4 @@
 
 지원님 경고. 두음법칙 안됩니다.
 
-![image](https://github.com/user-attachments/assets/71a5dbed-b436-4abe-83c9-fc518f1463c6)
+![alt text](image.png)
